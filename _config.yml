@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : "G-DEQSD4K0R3"
+    anonymize_ip         : # true, false (default)
